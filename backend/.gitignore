@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# uploads (optional, recommended)
+uploads/
+
+# env files
+.env
+.env.local
+
+# build outputs
+.next/
+dist/
